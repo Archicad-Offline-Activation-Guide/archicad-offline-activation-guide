@@ -26,7 +26,7 @@
 ![3D Modeling View](https://www.harmony-at.com/sites/default/files/styles/large_3_2_768x512/public/2023-08/maxresdefault_2.jpg?itok=xVKI90ls)  
 *Real-time architectural modeling in progress*
 
-![Team Collaboration Enabled](https://nry.com.my/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-27-at-4.29.45-PM.jpeg)  
+![Team Collaboration Enabled](https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/05dfbb17-33ad-4c5d-a6f5-0257009861a5.png?auto=format&q=50)  
 *Offline team project environment with full BIM access*
 
 ## 🔍 SEO Keywords
